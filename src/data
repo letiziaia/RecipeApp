@@ -1,0 +1,22 @@
+raw$ eggs$ 6$ pieces$ E$ #
+raw$ milk$ 2$ liters$ L$ #
+raw$ flour$ 900$ grams$ G$ #
+raw$ butter$ 125$ grams$ L$ #
+raw$ pasta$ 500$ grams$ G$ #
+raw$ fish$ 250$ grams$ F$ #
+raw$ minced meat$ 750$ grams$ #
+cooked$ cookies$ 0$ grams$ G L E$ #
+cooked$ cookie dough$ 1$ kg$ G L E$ 
+recipe$ cookie dough$ 4$ butter$ 250$ grams$ flour$ 200$ grams$ sugar$ 200$ grams$ eggs$ 2$ pieces$ Mix everything. Store in the fridge.$ #
+recipe$ chococookies$ 2$ cookie dough$ 500$ grams$ dark chocolate chips$ 100$ grams$ Mix and bake$ #
+recipe$ cookies$ 1$ cookie dough$ 500$ grams$ Mix and bake$ #
+raw$ chili sauce $ 250 $ grams $ #
+recipe$ beef and broccoli $ 5 $ beef steak $ 100 $ grams $ broccoli $ 150 $ grams $ honey $0.25 $ cups $ sriracha sauce$ 15 $ grams $ olive oil $ 0.15 $ dl$ Whisk together honey, oil, sriracha. Heat olive oil in a large skillet, add steak and cook, flipping once, until browned, about 3-4 minutes. Stir in broccoli and sauce mixture, about 3-4 minutes. Serve immediately$#
+raw$ sriracha sauce $ 250 $ ml $ #
+raw$ beef steak $ 400 $ grams $ #
+raw$ olive oil $ 1 $ liters $ #
+cooked $ stir fried wok vegetables$ 200 $grams$ #
+recipe $ stir fried wok vegetables$ 6$ bell peppers $ 200$ grams$ baby corn $ 100 $ grams $ sugar snap peas $ 100 $ grams $ chinese cabbage $ 150 $ grams $ olive oil$ 0.15 $ dl $ soy sauce $ 0.30 $dl$ Heat the oil in a large wok, add sugar snap peas and stir-fry for 2 minutes. Add chinese cabbage and soy sauce, and stir-fry for 1 minute. Serve immediately.$#
+raw$ cream cheese$ 500 $grams$ L$#
+raw$ sour cream$ 250$ ml$ L$#
+recipe$ new york cheesecake$ 9 $cookies $ 180 $ grams$ butter $ 100 $ grams $ cream cheese $ 1 $ kg $ sugar $ 400 $ grams $ flour $ 1 $ cups $ vanilla extract $ 15 $ ml $ sour cream $ 230 $ ml $ eggs $ 4 $ pieces $ strawberries $ 250 $ grams $ I have no idea$# 
