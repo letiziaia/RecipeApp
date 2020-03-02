@@ -1,5 +1,5 @@
 # RecipeApp
-(Course project - Spring 2019)
+Course project
 
 ## General Description
 The app implements a recipe book that can be searched for food and recipes that meet the
